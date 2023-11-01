@@ -1,6 +1,6 @@
 # HR Data Exploration
 
-This repository contains Python code for exploring and analyzing a Human Resources dataset. The dataset provides information about employees, including their demographics, performance scores, pay rates, and more. In this README, we'll provide an overview of the code and its findings.
+This repository contains Python code for exploring and analyzing a Human Resources dataset. The dataset provides information about employees, including their demographics, performance scores, pay rates, and more. In this README, I'll provide an overview of the code and its findings.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -71,4 +71,4 @@ To run the code and explore the HR dataset, follow these steps:
 
 By following these steps, you can explore the HR dataset, answer questions about the organization's workforce, and generate informative visualizations.
 
-Feel free to adapt and extend this code for your own data exploration or research purposes. Enjoy exploring your HR data!
+Feel free to adapt and extend this code for your own data exploration or research purposes. 
